@@ -9,7 +9,7 @@ This project focuses on designing and implementing a relational database system 
 * **SQL Concepts:** DDL/DML, Relational Constraints (`FOREIGN KEY`, `ON DELETE CASCADE`), Advanced Multi-table `JOIN` operations, Aggregations (`GROUP BY`, `HAVING`), Performance Indexing, `VIEWS`, and `STORED PROCEDURES`.
 
 ## 🗄️ Database Architecture
-![Database ER Diagram](ER diagram 2 sql.jpeg)
+![Database ER Diagram](Database_Schema_Diagram.png)
 
 The schema models a robust data architecture tracking libraries, categorical allocations, assets, system members, and transactional histories:
 * **CATEGORIES & BOOKS:** Hierarchical classification mapping out structural book inventory.
